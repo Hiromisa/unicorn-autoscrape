@@ -208,6 +208,7 @@ Aurora Solar,4.0,5/24/2021,United States,San Francisco,Internet software & servi
 Webflow,4.0,1/13/2021,United States,San Francisco,Internet software & services,"Accel, Silversmith Capital Partners, capitalG"
 Yuga Labs,4.0,3/22/2022,United States,Miami,Fintech,"Andreessen Horowitz, Thrive Capital, Sound Ventures"
 Digit Insurance,4.0,1/15/2021,India,Bengaluru,Fintech,"Fairfax Financial Holdings, A91 Partners, TVS Capital"
+Abnormal Security,4.0,5/10/2022,United States,San Francisco,Cybersecurity,"Greylock Partners, Insight Partners,Menlo Ventures"
 Medlinker,3.92,7/31/2018,China,Chengdu,Health,"China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China"
 Intarcia Therapeutics,3.8,4/1/2014,United States,Boston,Health,"New Enterprise Associates, New Leaf Venture Partners, Charter Venture Capital"
 StockX,3.8,6/26/2019,United States,Detroit,E-commerce & direct-to-consumer,"Google Ventures, Battery Ventures, DST Global"
@@ -230,6 +231,7 @@ Relativity,3.6,3/18/2021,United States,Chicago,Internet software & services,"Sil
 Whoop,3.6,10/28/2020,United States,Boston,E-commerce & direct-to-consumer,"NextView Ventures, Promus Ventures, Two Sigma Ventures"
 Applied Intuition,3.6,10/22/2020,United States,Sunnyvale,Data management & analytics,"Andreessen Horowitz, Lux Capital, General Catalyst"
 Course Hero,3.6,2/12/2020,United States,Redwood City,Edtech,"NewView Capital, Maveron, Ridge Ventures"
+SpotOn,3.6,5/26/2021,United States,San Francisco,Fintech,"Dragoneer Investment Group, DST Global, Franklin Templeton"
 Otto Bock HealthCare,3.52,6/24/2017,Germany,Duderstadt,Health,EQT Partners
 Indigo Ag,3.5,9/26/2017,United States,Boston,Artificial intelligence,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co."
 HyalRoute,3.5,5/26/2020,Singapore,,Mobile & telecommunications,Kuang-Chi
@@ -269,7 +271,6 @@ Innovaccer,3.2,2/19/2021,United States,San Francisco,Health,"M12, WestBridge Cap
 Ironclad,3.2,1/18/2022,United States,Sacramento,Internet software & services,"Accel, Sequoia Capital, Y Combinator"
 Skims,3.2,4/9/2021,United States,Los Angeles,E-commerce & direct-to-consumer,"Thrive Capital, Alliance Consumer Growth, Imaginary Ventures"
 PsiQuantum,3.15,7/27/2021,United States,Palo Alto,Hardware,"Playground Global, M12, BlackRock"
-SpotOn,3.15,5/26/2021,United States,San Francisco,Fintech,"Dragoneer Investment Group, DST Global, Franklin Templeton"
 Udaan,3.1,9/4/2018,India,Bengaluru,"Supply chain, logistics, & delivery","DST Global, Lightspeed Venture Partners, Microsoft ScaleUp"
 HighRadius,3.1,1/7/2020,United States,Houston,Fintech,"Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital"
 Nuvemshop,3.1,8/17/2021,Brazil,Sao Paulo,E-commerce & direct-to-consumer,"Kaszek Ventures, Qualcomm Ventures, Accel"
@@ -329,6 +330,7 @@ Hozon Auto,3.95,2/22/2022,China,Shanghai,Auto & transportation,"HD Capital, Qiho
 Tradeshift,2.7,5/30/2018,United States,San Francisco,Fintech,"Notion Capital, Scentan Ventures, Kite Ventures"
 Nextiva,2.7,9/14/2021,United States,Scottsdale,Internet software & services,Goldman Sachs Asset Management
 o9 Solutions,2.7,4/28/2020,United States,Dallas,Artificial intelligence,KKR
+Thought Machine,2.7,11/29/2021,United Kingdom,London,Fintech,"British Patient Capital, SEB Venture Capital, IQ Capital"
 ManoMano,2.6,7/5/2021,France,Paris,E-commerce & direct-to-consumer,"General Atlantic, Piton Capital, Partech Partners"
 Sourcegraph,2.62,7/13/2021,United States,San Francisco,Internet software & services,"Redpoint Ventures, Goldcrest Capital, Insight Partners"
 Pendo,2.6,10/17/2019,United States,Raleigh,Internet software & services,"Contour Venture Partners, Battery Ventures, Core Capital Partners"
@@ -712,6 +714,7 @@ Island,1.3,3/23/2022,United States,Dallas,Internet software & services,"Insight 
 Clipboard Health,1.3,2/1/2022,United States,San Francisco,Internet software & services,"Caffeinated Capital, Initialized Capital, Y Combinator"
 Biofourmis,1.3,4/26/2022,United States,Boston,Health,"General Atlantic, CVS Health, MassMutual Ventures"
 STORD,1.3,9/13/2021,United States,Atlanta,"Supply chain, logistics, & delivery","Dynamo VC, Susa Ventures, Founders Fund"
+Optibus,1.3,5/16/2022,Israel,Tel Aviv,"Supply chain, logistics, & delivery","Bessemer Venture Partners, Insight Partners, Pitango Venture Capital"
 Intercom,1.28,3/27/2018,United States,San Francisco,Internet software & services,"FirstMark Capital, Tiger Global Management"
 OVO Energy,1.28,2/14/2019,United Kingdom,Bristol,Other,"Mitsubishi Corporation, Mayfair Equity Partners"
 Huisuanzhang,1.28,5/24/2021,China,Beijing,Fintech,"IDG Capital, Gaocheng Capital, Chuanrong Capital"
@@ -773,6 +776,7 @@ Xpressbees,1.2,2/9/2022,India,Pune,"Supply chain, logistics, & delivery","Norwes
 Helium Systems,1.2,2/22/2022,United States,San Francisco,Internet software & services,"FirstMark Capital, Tiger Global Management, FTX Venture"
 Choco,1.2,4/12/2022,Germany,Berlin,E-commerce & direct-to-consumer,"Bessemer Venture Partners, G Squared, Insight Partners"
 Viz.ai,1.2,4/7/2022,United States,San Francisco,Artificial Intelligence,"Kleiner Perkins Caufield & Byers, CRV, Threshold Ventures"
+Unit,1.2,5/17/2022,United States,New York,Fintech,"Accel, Better Tomorrow Ventures, Flourish Ventures"
 CloudBees,1.15,12/9/2021,United States,San Jose,Data management & analytics,"Matrix Partners, Lightspeed Venture Partners, Verizon Ventures"
 L&P Cosmetic,1.19,1/1/2016,South Korea,Seoul,Consumer & retail,CDIB Capital
 Mininglamp Technology,1.19,3/27/2019,China,Beijing,Artificial intelligence,"Russia-China Investment Fund, Tencent Holdings, Sequoia Capital China"
@@ -824,6 +828,7 @@ Staffbase,1.1,3/15/2022,Germany,Chemnitz,Internet software & services,"Insight P
 Chief,1.1,3/31/2022,United States,New York,Other,"General Catalyst, Inspired Capital, Flybridge Capital Partners"
 IntelyCare,1.1,4/6/2022,United States,Quincy,Health,"Kaiser Permanente Ventures, Endeavour Vision, LRVHealth"
 Teleport,1.1,5/3/2022,United States,Oakland,Cybersecurity,"Kleiner Perkins Caufield & Byers, s28 Capital, Insight Partners"
+Imply Data,1.1,5/17/2022,United States,Burlingame,Data management & analytics,"Andreessen Horowitz, Bessemer Venture Partners, Khosla Ventures,"
 Material Security,1.1,5/11/2022,United States,Redwood City,Cybersecurity,"Andreessen Horowitz, Founders Fund"
 Nxin,1.08,9/18/2018,China,Beijing,Internet software & services,"Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund"
 UISEE Technology,1.08,1/25/2021,China,Beijing,"Supply chain, logistics, & delivery","Shenzhen Capital Group, Robert Bosch Venture Capital, SeptWolves Ventures"
@@ -1044,7 +1049,6 @@ Owkin,1.0,11/18/2021,United States,New York,Artificial Intelligence,"Google Vent
 Expel,1.0,11/18/2021,United States,Herndon,Cybersecurity,"Paladin Capital Group, Greycroft, Scale Venture Partners"
 NoBroker,1.0,11/23/2021,India,Bengaluru,Internet software & services,"General Atlantic, Elevation Capital, BEENEXT"
 Slice,1.0,11/28/2021,India,Bengaluru,Fintech,"Gunosy Capital, Blume Ventures, Das Capital"
-Thought Machine,1.0,11/29/2021,United Kingdom,London,Fintech,"British Patient Capital, SEB Venture Capital, IQ Capital"
 Lessen,1.0,11/30/2021,United States,Scottsdale,Internet software & services,"Khosla Ventures, General Catalyst, Navitas Capital"
 Clara,1.0,12/6/2021,Mexico,Mexico City,Fintech,"DST Global, General Catalyst, Monashees+"
 YipitData,1.0,12/6/2021,United States,New York,Internet software & services,"RRE Ventures+, Highland Capital Partners, The Carlyle Group"
@@ -1107,5 +1111,7 @@ Divergent 3D,1.0,4/25/2022,United States,Torrance,Auto & transportation,"Hedosop
 Taxfix,1.0,4/28/2022,Germany,Berlin,Fintech,"Valar Ventures, Index Ventures, Creandum"
 Open,1.0,5/2/2022,India,Bengaluru,Fintech,"3one4 Capital Partners, Tiger Global Management, Temasek"
 Polarium,1.0,5/3/2022,Sweden,Kista,Other,AMF Pensionsforsakring
+Opn,1.0,5/9/2022,Japan,Tokyo,Fintech,"Sinar Mas Digital Ventures, JIC Venture Growth Investments, Golden Gate Ventures"
 Remarkable,1.0,5/10/2022,Norway,Oslo,Internet software & services,Spark Capital
 Habi,1.0,5/11/2022,Colombia,Bogota,Fintech,"Homebrew, Inspired Capital, Tiger Global Management"
+Glean,1.0,5/18/2022,United States,Palo Alto,Internet software & services,"General Catalyst, Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners,"
