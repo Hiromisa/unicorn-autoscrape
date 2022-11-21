@@ -432,6 +432,7 @@ GoCardless,2.1,2/8/2022,United Kingdom,London,Fintech,"Accel, Passion Capital, B
 Forto,2.1,6/21/2021,Germany,Berlin,"Supply chain, logistics, & delivery","Cherry Ventures, Northzone Ventures, Global Founders Capital"
 Jeeves,2.1,3/14/2022,United States,Orlando,Fintech,"Tencent Holdings, CRV, Clocktower Technology Ventures"
 Babel Finance,2.0,5/25/2022,Hong Kong,Hong Kong,Fintech,"Dragonfly Capital, BAI Capital, 10T Fund"
+BeZero,2.0,11/14/2022,United Kingdom,London,Other,"Molten Ventures, Contrarian Ventures, Hitachi Ventures"
 Trendy Group International,2.0,2/13/2012,Hong Kong,Kowloon,Consumer & retail,L Capital Partners
 Mysten Labs,2.0,9/8/2022,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Coinbase Ventures, Circle Ventures"
 Avant,2.0,12/17/2012,United States,Chicago,Artificial intelligence,"RRE Ventures, Tiger Global, August Capital"
@@ -682,6 +683,7 @@ Einride,1.44,12/31/2021,Sweden,Stockholm,Auto & transportation,"Temasek,	BUILD C
 Justworks,1.43,1/28/2020,United States,New York,Internet software & services,"Index Ventures, Thrive Capital, Bain Capital Ventures"
 Valgen Medtech,1.43,5/6/2021,China,Hangzhou,Health,"Sequoia Capital China, China Life Investment Holding Company, Qiming Venture Partners"
 SonderMind,1.42,7/28/2021,United States,Denver,Health,"Kickstart Fund, General Catalyst, Drive Capital"
+Amagi,1.4,3/16/2022,India,Bengaluru,Internet software & services,"Mayfield, Accel, Norwest Venture Partners"
 Papa,1.4,11/4/2021,United States,Miami,Health,"Initialized Capital, Canaan Partners, Sound Ventures"
 Figment,1.4,12/20/2021,Canada,Toronto,Internet software & services,"Bonfire Ventures, Two Sigma Ventures, FJ Labs"
 Envoy,1.4,1/11/2022,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Initialized Capital, TriplePoint Capital"
@@ -914,6 +916,7 @@ Ample,1.02,11/11/2021,United States,San Francisco,Hardware,"Shell Ventures, Blac
 Leap Motor,1.01,11/20/2018,China,Hangzhou,Auto & transportation,"Sequoia Capital China, Gopher Asset Management, Shanghai Electric Group"
 Wheel,1.01,1/19/2022,United States,Austin,Health,"Silverton Partners, Tusk Ventures, CRV"
 Flow,1.0,8/15/2022,United States,New York,Fintech,Andreessen Horowitz
+Xanadu,1.0,11/9/2022,Canada,Toronto,Hardware,"BDC Capital, Georgian, Bessemer Venture Partners"
 LINE MAN Wongnai,1.0,9/26/2022,Thailand,Bangkok,E-commerce & direct-to-consumer,"BRV Capital Management, Bualuang Ventures"
 Celestia,1.0,10/19/2022,Liechtenstein,Vaduz,Internet software & services,"Placeholder Capital, Coinbase Ventures, Binance Ventures"
 Stability AI,1.0,10/5/2022,United Kingdom,London,Internet software & services,"Lightspeed Venture Partners, Coatue Management"
@@ -1031,6 +1034,7 @@ Inari,1.5,5/12/2021,United States,Cambridge,Other,"Flagship Pioneering, Alexandr
 Mux,1.0,4/30/2021,United States,San Francisco,Internet software & services,"Accel, Cobalt Capital, Andreessen Horowitz"
 XForcePlus,1.0,6/1/2021,China,Shanghai,Internet software & services,"Eastern Bell Capital, Danhua Capital, MSA Capital"
 Firefly Aerospace,1.1,5/4/2021,United States,Cedar Park,Other,"XBTO Ventures, Raven One Ventures, SK Ventures"
+Augustinus Bader,1.0,11/9/2022,London,United Kingdom,Consumer & retail,General Atlantic
 Shift Technology,1.0,5/6/2021,France,Paris,Artificial intelligence,"Griffin Gaming Partners, Andreessen Horowitz, Battery Ventures"
 TensTorrent,1.0,5/5/2021,Canada,Toronto,Artificial intelligence,"Eclipse Ventures, Fidelity Investments, Moore Capital Management"
 Zihaiguo,1.0,5/6/2021,China,Chongqing,Consumer & retail,"Xingwang Investment Management, China Capital Investment Group, Matrix Partners China"
@@ -1164,7 +1168,6 @@ Veev,1.0,2/24/2022,United States,San Mateo,Internet software & services,"Zeev Ve
 Vendr,1.0,2/24/2022,United States,Boston,Fintech,"Craft Ventures, F-Prime Capital, Sound Ventures"
 Gauntlet Networks,1.0,3/7/2022,United States,New York,Fintech,"Polychain Capital, Paradigm, Ribbit Capital"
 Aptos,1.0,3/15/2022,United States,Palo Alto,Internet software & services,"Andreessen Horowitz, Coinbase Ventures, Tiger Global Management"
-Amagi,1.0,3/16/2022,India,Bengaluru,Internet software & services,"Mayfield, Accel, Norwest Venture Partners"
 Glia,1.0,3/21/2022,United States,New York,Fintech,"Wildcat Capital Management, Insight Partners, Tola Capital"
 CommerceIQ,1.0,3/21/2022,United States,Palo Alto,Artificial Intelligence,"Trinity Ventures, Madrona Venture Group, Shasta Ventures"
 RapidAPI,1.0,3/23/2022,United States,San Francisco,Internet software & services,"Green Bay Ventures, M12, Andreessen Horowitz"
