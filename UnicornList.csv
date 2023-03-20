@@ -173,6 +173,7 @@ Monzo,4.5,10/31/2018,United Kingdom,London,Fintech,"Passion Capital, Thrive Capi
 UBTECH Robotics,4.58,7/25/2016,China,Shenzhen,Hardware,"CDH Investments, Goldstone Investments, Qiming Venture Partners"
 wefox,4.5,3/5/2019,Germany,Berlin,Fintech,"Salesforce Ventures, Seedcamp, OMERS Ventures"
 Lenskart,4.5,12/20/2019,India,Faridabad,E-commerce & direct-to-consumer,"Chiratae Ventures, PremjiInvest, Softbank"
+Anthropic,4.4,2/3/2023,United States,San Francisco,Artificial intelligence,Google
 Outreach,4.4,4/16/2019,United States,Seattle,Internet software & services,"Mayfield Fund, M12, Trinity Ventures"
 WeRide,4.4,12/23/2020,China,Guangzhou,Auto & transportation,"Atop Capital, IDInvest Partners, Qiming Venture Partners"
 Guild Education,4.4,11/13/2019,United States,Denver,Internet software & services,"General Atlantic, Blackstone, ICONIQ Growth"
@@ -288,7 +289,6 @@ Traveloka,3.0,1/1/2017,Indonesia,Jakarta,Travel,"Global Founders Capital, East V
 SouChe Holdings,3.0,11/1/2017,China,Hangzhou,E-commerce & direct-to-consumer,"Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund"
 BGL Group,3.0,11/24/2017,United Kingdom,Peterborough,Fintech,CPP Investment Board
 Circle,3.0,5/15/2018,United States,Boston,Fintech,"General Catalyst, Digital Currency Group, Accel"
-Anthropic,3.0,2/3/2023,United States,San Francisco,Artificial intelligence,Google
 Zuoyebang,3.0,7/18/2018,China,Beijing,Edtech,"Sequoia Capital China, Xiang He Capital, GGV Capital"
 FlixMobility,3.0,7/18/2019,Germany,Munich,Auto & transportation,"Holtzbrinck Ventures, Unternehmertum Venture Capital, General Atlantic"
 Wildlife Studios,3.0,12/5/2019,Brazil,Sao Paulo,Other,"Benchmark, Bessemer Venture Partners"
@@ -533,6 +533,7 @@ ENOVATE,1.85,4/15/2019,China,Shanghai,Auto & transportation,Automobile Industry 
 MEGAZONE,1.83,8/16/2022,South Korea,Seoul,Internet software & services,"Salesforce Ventures, ATP Investment, kt investment"
 CFGI,1.85,9/15/2021,United States,Boston,Fintech,"The Carlyle Group, CVC Capital Partners"
 ZocDoc,1.8,8/20/2015,United States,New York,Health,"Founders Fund, Khosla Ventures, Goldman Sachs"
+Scroll,1.8,3/14/2023,Seychelles,,Fintech,"OKX Ventures, Sequoia Capital China, IOSG"
 Diamond Foundry,1.8,3/29/2021,United States,San Francisco,Other,"Fashion Tech Lab, Fidelity Investments, Vast Ventures"
 FullStory,1.8,8/4/2021,United States,Atlanta,Internet software & services,"Google Ventures, Kleiner Perkins Caufield & Byers, Stripes Group"
 Lightricks,1.8,7/31/2019,Israel,Jerusalem,Artificial intelligence,"Viola Ventures, Insight Partners, ClalTech, Goldman Sachs"
@@ -926,6 +927,7 @@ Leap Motor,1.01,11/20/2018,China,Hangzhou,Auto & transportation,"Sequoia Capital
 Wheel,1.01,1/19/2022,United States,Austin,Health,"Silverton Partners, Tusk Ventures, CRV"
 MNT-Halan,1.0,2/3/2023,Egypt,Cairo,Fintech,"Middle East Venture Partners, Endeavor, Algebra Ventures"
 Character.AI,1.0,3/3/2023,United States,Menlo Park,Artificial intelligence,Andreessen Horowitz
+Atmosphere,1.0,2/7/2023,United States,Austin,Other,S3 Ventures
 Beamery,1.0,12/13/2022,United Kingdom,London,Artificial intelligence,"Index Ventures, EQT Ventures, Workday Ventures"
 Flow,1.0,8/15/2022,United States,New York,Fintech,Andreessen Horowitz
 Xanadu,1.0,11/9/2022,Canada,Toronto,Hardware,"BDC Capital, Georgian, Bessemer Venture Partners"
@@ -950,7 +952,6 @@ BeiBei,1.0,1/22/2015,China,Hangzhou,E-commerce & direct-to-consumer,"Banyan Capi
 Lamabang,1.0,3/6/2015,China,Shenzhen,E-commerce & direct-to-consumer,"5Y Capital, Matrix Partners China, K2VC"
 JimuBox,1.0,4/21/2015,China,Beijing,Fintech,"Matrix Partners China, Ventech China, Shunwei Capital Partners"
 FXiaoKe,1.0,7/2/2015,China,Beijing,Mobile & telecommunications,"IDG Capital, Northern Light Venture Capital, DCM Ventures"
-Vox Media,1.0,8/12/2015,United States,Washington,Internet software & services,"Accel Partners, Comcast Ventures, General Atlantic"
 Mia.com,1.0,9/8/2015,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, ZhenFund, K2 Ventures"
 58 Daojia,1.0,10/12/2015,China,Beijing,Internet software & services,"KKR, Alibaba Group, Ping An Insurance"
 Womai,1.0,10/12/2015,China,Beijing,E-commerce & direct-to-consumer,"SAIF Partners China, Baidu, IDG Capital"
