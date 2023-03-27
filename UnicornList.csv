@@ -1,8 +1,8 @@
 Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors
-ByteDance,140.0,4/7/2017,China,Beijing,Artificial intelligence,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group"
-SpaceX,127.0,12/1/2012,United States,Hawthorne,Other,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures"
+ByteDance,225.0,4/7/2017,China,Beijing,Artificial intelligence,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group"
+SpaceX,137.0,12/1/2012,United States,Hawthorne,Other,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures"
 SHEIN,100.0,7/3/2018,China,Shenzhen,E-commerce & direct-to-consumer,"Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners"
-Stripe,63.0,1/23/2014,United States,San Francisco,Fintech,"Khosla Ventures, LowercaseCapital, capitalG"
+Stripe,50.0,1/23/2014,United States,San Francisco,Fintech,"Khosla Ventures, LowercaseCapital, capitalG"
 Canva,40.0,1/8/2018,Australia,Surry Hills,Internet software & services,"Sequoia Capital China, Blackbird Ventures, Matrix Partners"
 Checkout.com,40.0,5/2/2019,United Kingdom,London,Fintech,"Tiger Global Management, Insight Partners, DST Global"
 Revolut,33.0,4/26/2018,United Kingdom,London,Fintech,"index Ventures, DST Global, Ribbit Capital"
@@ -436,7 +436,6 @@ Forto,2.1,6/21/2021,Germany,Berlin,"Supply chain, logistics, & delivery","Cherry
 Jeeves,2.1,3/14/2022,United States,Orlando,Fintech,"Tencent Holdings, CRV, Clocktower Technology Ventures"
 Viva Wallet,2.05,12/17/2022,Greece,Athens,Fintech,"Breyer Capital, Hedosophia"
 Babel Finance,2.0,5/25/2022,Hong Kong,Hong Kong,Fintech,"Dragonfly Capital, BAI Capital, 10T Fund"
-BeZero,2.0,11/14/2022,United Kingdom,London,Other,"Molten Ventures, Contrarian Ventures, Hitachi Ventures"
 Trendy Group International,2.0,2/13/2012,Hong Kong,Kowloon,Consumer & retail,L Capital Partners
 GrubMarket,2.0,9/14/2021,United States,San Francisco,E-commerce & direct-to-consumer,"GGV Capital, BlackRock, ACE & Company"
 GO1,2.0,7/19/2021,Australia,Brisbane,Internet software & services,"Y Combinator, M12, SEEK"
@@ -681,6 +680,7 @@ Bordrin Motors,1.48,6/3/2019,China,Shanghai,Auto & transportation,"China Grand P
 Arcadia,1.48,5/10/2022,United States,DC,Other,"BoxGroup, Energy Impact Partners, Camber Creek"
 VTS,1.47,5/7/2019,United States,New York,Internet software & services,"Trinity Ventures, Fifth Wall Ventures, OpenView Venture Partners"
 Shukun Technology,1.46,8/16/2021,China,Beijing,Artificial Intelligence,"Marathon Venture Partners, Huagai Capital, China Creation Ventures"
+Huasun,1.46,1/19/2023,China,Xuancheng,Other,"Hongtai Capital Holdings, Jintou Zhiyuan"
 Coocaa,1.45,3/16/2018,China,Shenzhen,Hardware,"Baidu, Tencent Holdings"
 Juma Peisong,1.45,11/26/2018,China,Chengdu,"Supply chain, logistics, & delivery","Ding Xiang Capital, New Hope Fund, Sino-Ocean Capital"
 Ouyeel,1.45,6/27/2019,China,Shanghai,Internet software & services,Taigang Venture Capital
@@ -698,6 +698,7 @@ Figment,1.4,12/20/2021,Canada,Toronto,Internet software & services,"Bonfire Vent
 Envoy,1.4,1/11/2022,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Initialized Capital, TriplePoint Capital"
 Deliverect,1.4,1/24/2022,Belgium,Ghent,Fintech,"Newion Partners, SmartFin Capital, OMERS Ventures"
 SparkCognition,1.4,1/25/2022,United States,Austin,Artificial intelligence,"March Capital Partners, Temasek, Doha Venture Capital"
+Liquidity,1.4,2/20/2023,Israel,Tel Aviv,Fintech,"MUFG Innovation Partners, Spark Capital"
 Firebolt,1.4,1/26/2022,Israel,Tel Aviv,Data management & analytics,"TLV Partners, Zeev Ventures, Bessemer Venture Partners"
 Koudai,1.4,10/23/2014,China,Beijing,E-commerce & direct-to-consumer,"New Enterprise Associates, Tiger Global Management, Tencent"
 Symphony,1.4,5/16/2017,United States,New York,Fintech,"BNP Paribas, Goldman Sachs, Google"
@@ -928,6 +929,7 @@ Wheel,1.01,1/19/2022,United States,Austin,Health,"Silverton Partners, Tusk Ventu
 MNT-Halan,1.0,2/3/2023,Egypt,Cairo,Fintech,"Middle East Venture Partners, Endeavor, Algebra Ventures"
 Character.AI,1.0,3/3/2023,United States,Menlo Park,Artificial intelligence,Andreessen Horowitz
 Atmosphere,1.0,2/7/2023,United States,Austin,Other,S3 Ventures
+Adept,1.0,3/14/2023,United States,San Francisco,Artificial intelligence,"Greylock Partners, Addition, M12"
 Beamery,1.0,12/13/2022,United Kingdom,London,Artificial intelligence,"Index Ventures, EQT Ventures, Workday Ventures"
 Flow,1.0,8/15/2022,United States,New York,Fintech,Andreessen Horowitz
 Xanadu,1.0,11/9/2022,Canada,Toronto,Hardware,"BDC Capital, Georgian, Bessemer Venture Partners"
